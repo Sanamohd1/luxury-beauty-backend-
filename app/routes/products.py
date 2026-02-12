@@ -24,11 +24,13 @@ async def get_products(
 ):
     query = {}
 
+    # ✅ FIXED: Case-insensitive + tolerant matching
     if category:
-        query["category"] = category
+        query["category"] = {"$regex": f"^{category}", "$options": "i"}
 
+    # ✅ FIXED: Case-insensitive brand matching
     if brand:
-        query["brand"] = brand
+        query["brand"] = {"$regex": f"^{brand}", "$options": "i"}
 
     if min_rating is not None or max_rating is not None:
         query["rating"] = {}
@@ -44,7 +46,6 @@ async def get_products(
         if maxPrice is not None:
             query["price"]["$lte"] = maxPrice
 
-    # ✅ SIMPLE: Just search in name and description for all checkbox filters
     if preference and len(preference) > 0:
         query["$and"] = query.get("$and", [])
         for pref in preference:
@@ -114,7 +115,7 @@ async def get_products(
                 {"tags": {"$regex": search, "$options": "i"}},
             ]
         }
-        
+
         if "$and" in query:
             query["$and"].append(search_query)
         else:
