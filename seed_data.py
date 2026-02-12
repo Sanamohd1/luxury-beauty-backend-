@@ -50,7 +50,6 @@ products = [
         "image": "https://images.unsplash.com/photo-1629732097571-b042b35aa3ed?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "images": [
             "https://images.unsplash.com/photo-1629732097571-b042b35aa3ed?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-            "https://images.unsplash.com/photo-1556228852-80a9e1e89c8c?w=800&auto=format&fit=crop"
         ],
         "rating": 4.9,
         "reviews_count": 312,
@@ -145,7 +144,6 @@ products = [
         "image": "https://images.unsplash.com/photo-1766940095250-5c7715ab57ea?q=80&w=1160&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "images": [
             "https://images.unsplash.com/photo-1766940095250-5c7715ab57ea?q=80&w=1160&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-            "https://images.unsplash.com/photo-1616683693504-3b3e1f6e3e84?w=800&auto=format&fit=crop"
         ],
         "rating": 2.0,
         "reviews_count": 267,
@@ -164,7 +162,6 @@ products = [
         "image": "https://images.unsplash.com/photo-1673847401561-fcd75a7888c5?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "images": [
             "https://images.unsplash.com/photo-1673847401561-fcd75a7888c5?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-            "https://images.unsplash.com/photo-1598662957477-64634a89efdb?w=800&auto=format&fit=crop"
         ],
         "rating": 4.6,
         "reviews_count": 192,
@@ -183,7 +180,6 @@ products = [
         "image": "https://images.unsplash.com/photo-1598662957563-ee4965d4d72c?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "images": [
             "https://images.unsplash.com/photo-1598662957563-ee4965d4d72c?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-            "https://images.unsplash.com/photo-1556228852-9f88a0e6b8ca?w=800&auto=format&fit=crop"
         ],
         "rating": 3.5,
         "reviews_count": 224,
@@ -202,7 +198,6 @@ products = [
         "image": "https://images.unsplash.com/photo-1599847935464-fde3827639c2?q=80&w=928&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "images": [
             "https://images.unsplash.com/photo-1599847935464-fde3827639c2?q=80&w=928&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-            "https://images.unsplash.com/photo-1627893052857-8d52d90d4ac3?w=800&auto=format&fit=crop"
         ],
         "rating": 4.5,
         "reviews_count": 143,
@@ -222,7 +217,6 @@ products = [
         "image": "https://images.unsplash.com/photo-1600852306752-085ca3285361?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "images": [
             "https://images.unsplash.com/photo-1600852306752-085ca3285361?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-            "https://images.unsplash.com/photo-1631214500869-3a4cdc1d7099?w=800&auto=format&fit=crop"
         ],
         "rating": 2.5,
         "reviews_count": 198,
@@ -241,7 +235,6 @@ products = [
         "image": "https://images.unsplash.com/photo-1627885793933-584e53987c14?q=80&w=872&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "images": [
             "https://images.unsplash.com/photo-1627885793933-584e53987c14?q=80&w=872&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-            "https://images.unsplash.com/photo-1596704017254-9b121068ec31?w=800&auto=format&fit=crop"
         ],
         "rating": 4.8,
         "reviews_count": 287,
@@ -260,7 +253,6 @@ products = [
         "image": "https://images.unsplash.com/photo-1547934659-7fa699ef3ce0?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "images": [
             "https://images.unsplash.com/photo-1547934659-7fa699ef3ce0?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-            "https://images.unsplash.com/photo-1583241800698-1ee0c08df9ba?w=800&auto=format&fit=crop"
         ],
         "rating": 4.9,
         "reviews_count": 342,
@@ -279,7 +271,6 @@ products = [
         "image": "https://images.unsplash.com/photo-1619406266880-7e130b6c65c0?q=80&w=770&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "images": [
             "https://images.unsplash.com/photo-1619406266880-7e130b6c65c0?q=80&w=770&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-            "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=800&auto=format&fit=crop"
         ],
         "rating": 4.6,
         "reviews_count": 215,
@@ -298,7 +289,6 @@ products = [
         "image": "https://images.unsplash.com/photo-1501728636520-11c972bd5e2e?q=80&w=872&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "images": [
             "https://images.unsplash.com/photo-1501728636520-11c972bd5e2e?q=80&w=872&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-            "https://images.unsplash.com/photo-1625843134761-529b92d6de5a?w=800&auto=format&fit=crop"
         ],
         "rating": 4.8,
         "reviews_count": 176,
@@ -317,7 +307,6 @@ products = [
         "image": "https://images.unsplash.com/photo-1597225244660-1cd128c64284?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "images": [
             "https://images.unsplash.com/photo-1597225244660-1cd128c64284?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-            "https://images.unsplash.com/photo-1634449571010-02389ed0f9b0?w=800&auto=format&fit=crop"
         ],
         "rating": 4.7,
         "reviews_count": 164,
@@ -336,7 +325,6 @@ products = [
         "image": "https://images.unsplash.com/photo-1625093525885-282384697917?q=80&w=1602&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "images": [
             "https://images.unsplash.com/photo-1625093525885-282384697917?q=80&w=1602&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-            "https://images.unsplash.com/photo-1608342213835-10f49dab5df9?w=800&auto=format&fit=crop"
         ],
         "rating": 4.6,
         "reviews_count": 189,
@@ -355,7 +343,6 @@ products = [
         "image": "https://images.unsplash.com/photo-1679973519230-10b9d160465a?q=80&w=854&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "images": [
             "https://images.unsplash.com/photo-1679973519230-10b9d160465a?q=80&w=854&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-            "https://images.unsplash.com/photo-1598662957477-64634a89efdb?w=800&auto=format&fit=crop"
         ],
         "rating": 4.8,
         "reviews_count": 231,
@@ -374,7 +361,6 @@ products = [
         "image": "https://images.unsplash.com/photo-1640317372997-b76e600ee5ef?q=80&w=928&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "images": [
             "https://images.unsplash.com/photo-1640317372997-b76e600ee5ef?q=80&w=928&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-            "https://images.unsplash.com/photo-1625843134761-529b92d6de5a?w=800&auto=format&fit=crop"
         ],
         "rating": 4.5,
         "reviews_count": 152,
@@ -393,7 +379,6 @@ products = [
         "image": "https://images.unsplash.com/photo-1668255446079-b15fd061735d?q=80&w=930&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "images": [
             "https://images.unsplash.com/photo-1668255446079-b15fd061735d?q=80&w=930&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-            "https://images.unsplash.com/photo-1631214500869-3a4cdc1d7099?w=800&auto=format&fit=crop"
         ],
         "rating": 4.7,
         "reviews_count": 203,
@@ -413,7 +398,6 @@ products = [
         "image": "https://images.unsplash.com/photo-1709095458514-573bc6277d3d?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "images": [
             "https://images.unsplash.com/photo-1709095458514-573bc6277d3d?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-            "https://images.unsplash.com/photo-1595425970377-c9703cf48b6f?w=800&auto=format&fit=crop"
         ],
         "rating": 4.9,
         "reviews_count": 312,
@@ -489,7 +473,6 @@ products = [
         "image": "https://images.unsplash.com/photo-1757313236346-d5d7ff5ffaab?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "images": [
             "https://images.unsplash.com/photo-1757313236346-d5d7ff5ffaab?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-            "https://images.unsplash.com/photo-1619994121345-b3f0c44c2c92?w=800&auto=format&fit=crop"
         ],
         "rating": 4.8,
         "reviews_count": 278,
@@ -546,7 +529,6 @@ products = [
         "image": "https://images.unsplash.com/photo-1762518883925-cb26fdeb51cb?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "images": [
             "https://images.unsplash.com/photo-1762518883925-cb26fdeb51cb?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-            "https://images.unsplash.com/photo-1652196298019-140638ea4ecb?w=800&auto=format&fit=crop"
         ],
         "rating": 4.8,
         "reviews_count": 267,
@@ -565,7 +547,6 @@ products = [
         "image": "https://images.unsplash.com/photo-1759793500112-c588839cfc6e?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "images": [
             "https://images.unsplash.com/photo-1759793500112-c588839cfc6e?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-            "https://images.unsplash.com/photo-1610465299996-e4053d3e94c3?w=800&auto=format&fit=crop"
         ],
         "rating": 4.7,
         "reviews_count": 212,
