@@ -5,6 +5,7 @@ from app.models.user import User, UserCreate, UserLogin
 from app.auth.jwt import create_token, decode_token
 from datetime import datetime, timezone
 import bcrypt
+from jwt import InvalidTokenError
 
 router = APIRouter(prefix="/auth", tags=["Auth"])
 security = HTTPBearer()
@@ -53,12 +54,17 @@ async def login(data: UserLogin):
 @router.get("/me")
 async def get_me(credentials: HTTPAuthorizationCredentials = Depends(security)):
     token = credentials.credentials
-    payload = decode_token(token)
+    try:
+        payload = decode_token(token)
+    except InvalidTokenError:
+        raise HTTPException(status_code=401, detail="Invalid or expired token")
 
     if not payload:
         raise HTTPException(status_code=401, detail="Invalid or expired token")
 
     user_id = payload.get("user_id")
+    if not user_id:
+        raise HTTPException(status_code=401, detail="Invalid or expired token")
 
     user = await db.users.find_one(
         {"id": user_id},
